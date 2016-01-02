@@ -1,6 +1,6 @@
 MIT LICENSE APPLIES TO THIS PROJECT
 
-Copyright (C) 2013, Shikhar Sharma - http://www.shikharsharma.com/
+Copyright (C) 2013,shashi bhushan - https://sites.google.com/site/shashibhushan12533/
  
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
